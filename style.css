@@ -10,3 +10,8 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.card{
+    border: none;
+    margin: 80px;
+}
